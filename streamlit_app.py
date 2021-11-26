@@ -4,6 +4,8 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 
+st.caption("Source code is here. https://github.com/IkokObi/streamlit-trial-demo")
+
 st.header("Display and style data")
 
 
